@@ -1,0 +1,9 @@
+[compiler]
+source=src/main/ceylon
+resource=resource
+
+[defaults]
+encoding=UTF-8
+
+[repositories]
+output=./target/modules
